@@ -3,14 +3,9 @@
  [Tech cube](https://tech-cube-ergopivishwakarma.vercel.app/) is an e-commerce website that sells electronic gadgets and products such as mobile, laptops, watches, TV, etc. <br> <br>
 A collaborative project built by a team of five members within 5 days. <br>
 
- Github link: 
- Deployed link: 
-
-## Tech-Stack Used 
-Front-end: HTML, CSS, JavaScript, React, Redux, Chakra-UI, and Axios. <br>
-Back-end: JSON-Server, REST API's. <br>
-Deployment: Vercel (front-end), Render (back-end) <br>
- 
+ Github link:  https://github.com/Deepak-25yadav/Electronic-e-store 
+ <br>
+ Deployed link:  https://tech-cube-ten.vercel.app/
 
 ## Team Collaborators
 - [@Deepak Yadav](https://github.com/Deepak-25yadav)
@@ -18,8 +13,26 @@ Deployment: Vercel (front-end), Render (back-end) <br>
 - [@Tanmoy Roy](https://github.com/Tanmoy0151)
 - [@Juri Kalita](https://github.com/jurikalita011)
 - [@Ritesh Goswami](https://github.com/ritesh22201)
+ 
 
+## Tech-Stack Used <br>
+Front-end: HTML || CSS || JavaScript || React || Redux || Chakra-UI || Axios. <br>
+Back-end: JSON-Server || REST API's. <br>
+Deployment: Vercel (front-end) || Render (back-end) <br><br>
 
+## Features
+
+- Sign-up || Login
+- Searching || Sorting || Filter
+- Pagination
+- Responsive web-design
+- Single Product Page
+- Payment Page || Cart Page
+- Admin Page ( with CRUD operations)
+
+  <br><br>
+
+ 
 
 ![home](https://user-images.githubusercontent.com/114371170/236990864-71b4be2a-881c-465a-a04e-65880c2a3b73.png)
 
