@@ -1,8 +1,24 @@
 # Tech cube
 
-### [Tech cube](https://tech-cube-ergopivishwakarma.vercel.app/) is an E-commerce website which sells elctronic gadgets and products such as mobile, laptop, watch, TV etc.
-### A collaborative project built by team of five members within 5 days.
-#### Tech Stacks used: JavaScript, ReactJS, Redux, React-Redux and Chakra UI.
+ [Tech cube](https://tech-cube-ergopivishwakarma.vercel.app/) is an e-commerce website that sells electronic gadgets and products such as mobile, laptops, watches, TV, etc. <br> <br>
+A collaborative project built by a team of five members within 5 days. <br>
+
+ Github link: 
+ Deployed link: 
+
+## Tech-Stack Used 
+Front-end: HTML, CSS, JavaScript, React, Redux, Chakra-UI, and Axios. <br>
+Back-end: JSON-Server, REST API's. <br>
+Deployment: Vercel (front-end), Render (back-end) <br>
+ 
+
+## Team Collaborators
+- [@Deepak Yadav](https://github.com/Deepak-25yadav)
+- [@Gopi Vishwakarma](https://github.com/ErGopiVishwakarma)
+- [@Tanmoy Roy](https://github.com/Tanmoy0151)
+- [@Juri Kalita](https://github.com/jurikalita011)
+- [@Ritesh Goswami](https://github.com/ritesh22201)
+
 
 
 ![home](https://user-images.githubusercontent.com/114371170/236990864-71b4be2a-881c-465a-a04e-65880c2a3b73.png)
@@ -34,23 +50,6 @@
 ### To install all dependencies `npm install` or `npm i` and to start the application do `npm run start` or `npm start`
 ##### NPM Packages used
 ```
-react 
-react-router-dom  v6.11.0
-axios  v1.4.0
-react-icon
-React-redux
-Chakra-ui
+
 ```
-### Technologies Used 
-##### react, redux, html, css, chakra
-
-## Team Collaborators
-- [@Gopi Vishwakarma](https://github.com/ErGopiVishwakarma)
-- [@Tanmoy Roy](https://github.com/Tanmoy0151)
-- [@Juri Kalita](https://github.com/jurikalita011)
-- [@Ritesh Goswami](https://github.com/ritesh22201)
-- [@Deepak Yadav](https://github.com/Deepak-25yadav)
-
-
-
 
